@@ -28,7 +28,7 @@
 
 
 // ----------------------- reverse array using built in function
-let fArray = [22,33,66,77,89]
-console.log(fArray.reverse())
+// let fArray = [22,33,66,77,89]
+// console.log(fArray.reverse())
 
 
