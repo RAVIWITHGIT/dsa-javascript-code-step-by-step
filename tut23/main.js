@@ -1,4 +1,4 @@
-// ----------------->>>>>>>>>>>> Binary Search Alogrithm <<<<<<<<<<<<<<------------------------------
+// ----------------->>>>>>>>>>>> Binary Search Alogrithm  with Iterative Approach <<<<<<<<<<<--------
 
 // note ==> Binary Search Algorithm work only sorted Array
 
