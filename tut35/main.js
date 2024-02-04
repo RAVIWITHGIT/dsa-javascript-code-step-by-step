@@ -37,8 +37,7 @@ class List{
 
 let list = new List(200);
 list.appendNode(300)
-// list.appendNode(400)
-// list.appendNode(500)
+list.appendNode(400)
 // list.appendNode(600)
 // list.appendNode(700)
 // list.appendNode(800)
